@@ -7,8 +7,3 @@
 	path = midterm_project
 	url = ./midterm_project
 	datalad-id = d95bafc8-f2a4-d27b-dcf4-bb99f4bea973
-[submodule "cloud"]
-	path = cloud
-	url = https://github.com/datalad-datasets/disneyanimation-cloud.git
-	datalad-id = b138e80e-8280-11e8-923d-a0369f7c647e
-	datalad-url = https://github.com/datalad-datasets/disneyanimation-cloud.git
