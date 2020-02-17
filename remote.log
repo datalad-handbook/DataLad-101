@@ -1,0 +1,1 @@
+5f3ef88d-dc40-45f5-96cf-25907b2efb8f chunk=50MiB encryption=none externaltype=rclone name=mygdrive prefix=datalad/ed80af32-5159-11ea-a727-6533dd7bb2c6 rclone_layout=lower target=datalad/ed80af32-5159-11ea-a727-6533dd7bb2c6 type=external timestamp=1581958472.206092197s
