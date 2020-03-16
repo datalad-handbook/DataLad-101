@@ -3,3 +3,8 @@
 	url = https://github.com/datalad-datasets/longnow-podcasts.git
 	branch = master
 	datalad-id = b3ca2718-8901-11e8-99aa-a0369f7c647e
+[submodule "midterm_project"]
+	path = midterm_project
+	url = ./midterm_project
+	branch = master
+	datalad-id = 0cf4cb68-6754-11ea-861d-f9fd9dd57046
