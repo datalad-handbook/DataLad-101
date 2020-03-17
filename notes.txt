@@ -1,3 +1,7 @@
 One can create a new dataset with 'datalad create [--description] PATH'.
 The dataset is created empty
 
+The command "datalad save [-m] PATH" saves the file
+(modifications) to history. Note to self:
+Always use informative, concise commit messages.
+
